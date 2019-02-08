@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<conio.h>
 void big()
 {
 	int a, b, big;
